@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='Emalier_Sendgrid',
     version='1.0',
-    packages=['lib.python2.7.distutils', 'lib.python2.7.encodings', 'lib.python2.7.site-packages.pip',
+    packages=[
               'lib.python2.7.site-packages.pip.req', 'lib.python2.7.site-packages.pip.vcs',
               'lib.python2.7.site-packages.pip.utils', 'lib.python2.7.site-packages.pip.compat',
               'lib.python2.7.site-packages.pip.models', 'lib.python2.7.site-packages.pip._vendor',
