@@ -1,12 +1,12 @@
 #from distutils.core import setup
-from setuptools import setup
+from setuptools import setup, find_packages
 setup(
     name='Emalier_Sendgrid',
     version='1.0',
-    ackages=find_packages(),
+    packages=find_packages(),
     url='https://github.com/marcus800/Sendgrid-emailer/',
     license='MIT',
     author='marcus',
     author_email='lewis@pinnaclevl.com',
-    description='Sendgrid emalier'
+    description='Sendgrid -emalier'
 )
