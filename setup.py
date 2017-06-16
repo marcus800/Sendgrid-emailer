@@ -3,8 +3,7 @@ from setuptools import setup
 setup(
     name='Emalier_Sendgrid',
     version='1.0',
-    packages=[
-              setuptools.find_packages]
+    ackages=find_packages(),
     url='https://github.com/marcus800/Sendgrid-emailer/',
     license='MIT',
     author='marcus',
