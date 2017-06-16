@@ -109,7 +109,7 @@ setup(
               'lib.python2.7.site-packages.pyasn1_modules', 'lib.python2.7.site-packages.service_identity',
               'lib.python2.7.site-packages.python_http_client'],
     url='https://github.com/marcus800/Sendgrid-emailer/',
-    license='none',
+    license='MIT',
     author='marcus',
     author_email='lewis@pinnaclevl.com',
     description='Sendgrid emalier'
